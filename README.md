@@ -1,4 +1,3 @@
-
 # Retail Sales Analysis Using SQL
 
 Retail sales analysis project using **SQL**, **SQLite**, **DB Browser for SQLite**, and **Microsoft Excel** to generate meaningful business insights from retail transaction data.
